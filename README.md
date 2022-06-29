@@ -1,16 +1,13 @@
-### Hi there 👋
+### Howdy 👋
 
-<!--
-**aleksbelic/aleksbelic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```JS
+const meMyselfAndI = {
+  name: 'Aleksandar Belic',
+  aliases: ['Aleksanchez', 'Stewa', 'LXIX'],
+  location: onVacation ? 'Serbia' : 'Germany',
+  roles: ['Software Developer', 'Test Automation Specialist'],
+  languages: ['sr', 'en', 'de'],
+  hobbies: ['playin\' my Les Paul', 'skateboarding', 'digital artist'],
+  misc: ['meme connoisseur', 'SPQR enthusiast']
+}
+```
