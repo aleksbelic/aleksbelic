@@ -7,7 +7,7 @@ const meMyselfAndI = {
   location: onVacation ? 'Serbia' : 'Germany',
   roles: ['Software Developer', 'Test Automation Specialist'],
   languages: ['sr', 'en', 'de'],
-  hobbies: ['playin\' my Les Paul', 'skateboarding', 'digital artist'],
-  misc: ['meme connoisseur', 'SPQR enthusiast']
+  hobbies: ['playin\' my Les Paul', 'skateboarding', 'digital artist', 'cryptography'],
+  misc: ['meme connoisseur', 'SPQR enthusiast', 'headbanger']
 }
 ```
