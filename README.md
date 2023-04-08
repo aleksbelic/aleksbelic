@@ -3,11 +3,10 @@
 ```JS
 const meMyselfAndI = {
   name: 'Aleksandar Belic',
-  aliases: ['Aleksanchez', 'Stewa', 'LXIX'],
-  location: onVacation ? 'Serbia' : 'Germany',
+  aliases: ['Aleksanchez', 'Chez', 'Stewa'],
   roles: ['Software Developer', 'Test Automation Specialist'],
   languages: ['sr', 'en', 'de'],
-  hobbies: ['playin\' my Les Paul', 'skateboarding', 'digital artist', 'machine learning', 'cryptography'],
+  hobbies: ['playin\' my Les Paul', 'skateboarding', 'street/digital artist', 'ML', 'DLT', 'cryptography'],
   misc: ['meme connoisseur', 'SPQR enthusiast', 'headbanger']
 }
 ```
