@@ -6,7 +6,7 @@ const meMyselfAndI = {
   aliases: ['Aleksanchez', 'Chez', 'Stewa'],
   roles: ['Software Developer', 'Test Automation Specialist'],
   languages: ['sr', 'en', 'de'],
-  hobbies: ['playin\' my Les Paul', 'skateboarding', 'street/digital artist', 'ML', 'DLT', 'cryptography'],
-  misc: ['meme connoisseur', 'SPQR enthusiast', 'headbanger']
+  hobbies: ['guitar jammin\'', 'street/digital artist', 'ML', 'cryptography'],
+  misc: ['meme connoisseur', 'history enthusiast', 'headbanger 4 life']
 }
 ```
